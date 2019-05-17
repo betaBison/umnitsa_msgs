@@ -49,8 +49,8 @@ find_package(catkin REQUIRED COMPONENTS
 # Generate messages in the 'msg' folder
 add_message_files(
   FILES
-  joystick.msg
-  ultrasonic.msg
+  Joystick.msg
+  Ultrasonic.msg
 )
 
 ## Generate services in the 'srv' folder
